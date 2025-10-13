@@ -20,13 +20,21 @@
   - [Locally Hosting AI LLM for Story writting using LM Studio]()
   - [Locally Hosting AI LLM for general purposes using OpenWebUI]()
   - Hosting AI on laptop for remote access(In Progress)
+**Home Labbing**
+  - [Setting up pfsense as a virtual machine to isolate VM's for home lab]()
+
+
+
+
 
 ## 🤳 Connect with me:
 
 [<img align="left" alt="IsaiahMyles | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Cyber Attack | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 [gmail]: https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Aisaiahmyles04%40gmail%2Ecom
-
+[youtube]: https://www.youtube.com/@CybersecAttack
 
 <!--
 **Expert21/Expert21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
