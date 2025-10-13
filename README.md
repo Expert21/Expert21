@@ -1,6 +1,6 @@
 
 # Hi, I'm Isaiah!
-  
+### (NOTICE, LINKS NOT WORKING, PORTFOLIO IN PROGRESS)
 ## 🔒Cybersecurity Projects & CTF's:
 
 **🚩CTF's**
