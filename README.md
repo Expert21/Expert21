@@ -32,7 +32,7 @@ Quick languge guide
 
 ### **Home Labbing**
 
-  - [Home Labbing on Youtube]([https://www.youtube.com/@CybersecAttack](https://youtube.com/playlist?list=PLiAumUyc_U3d4YBzbPOxei7EGxlvbPW0V&si=XSTm3tpYt7ZUus-3))
+  - [Home Labbing on Youtube]([https://www.youtube.com/@CybersecAttack](https://youtube.com/playlist?list=PLiAumUyc_U3d4YBzbPOxei7EGxlvbPW0V&si=XSTm3tpYt7ZUus-3)
 
   - (to be completed)[Setting up pfsense as a virtual machine to isolate VM's for home lab]()
 
