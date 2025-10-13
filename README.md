@@ -31,6 +31,9 @@ Quick languge guide
   - Hosting AI on laptop for remote access(In Progress)
 
 ### **Home Labbing**
+
+  - [Home Labbing on Youtube](https://www.youtube.com/@CybersecAttack)
+
   - (to be completed)[Setting up pfsense as a virtual machine to isolate VM's for home lab]()
 
 
