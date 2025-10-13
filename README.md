@@ -25,11 +25,12 @@ Quick languge guide
 
 ## ✅Misc Projects:
 
-**AI Projects**
+### **AI Projects**
   - (to be completed)[Locally Hosting AI LLM for Story writting using LM Studio]()
   - (to be completed)[Locally Hosting AI LLM for general purposes using OpenWebUI]()
   - Hosting AI on laptop for remote access(In Progress)
-**Home Labbing**
+
+### **Home Labbing**
   - (to be completed)[Setting up pfsense as a virtual machine to isolate VM's for home lab]()
 
 
