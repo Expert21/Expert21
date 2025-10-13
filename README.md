@@ -1,10 +1,27 @@
 
-<h1>Hi, I'm Isaiah!
+# Hi, I'm Isaiah!
   
-<h2> Cybersecurity Projects:</h2>
+## 🔒Cybersecurity Projects & CTF's:
 
+**🚩CTF's**
 
-<h2> 🤳 Connect with me:</h2>
+- **Napping**
+  - [Detailed Napping 1.0.1 Completeion tutorial and Report]()
+- **Mercury**
+  - [Detailed Mercury Completeion Tutorial and Report]()
+- **Deathnote**
+  - [Detailed Deathnote Completeion Tutorial and Report]()
+## 🧑‍💻Coding projects:
+- Discord Bot for Image Generation(Possibly NSFW) (In Progress)
+
+## ✅Misc Projects:
+
+**AI Projects**
+  - [Locally Hosting AI LLM for Story writting using LM Studio]()
+  - [Locally Hosting AI LLM for general purposes using OpenWebUI]()
+  - Hosting AI on laptop for remote access(In Progress)
+
+## 🤳 Connect with me:
 
 [<img align="left" alt="IsaiahMyles | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
