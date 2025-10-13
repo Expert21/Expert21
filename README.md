@@ -1,27 +1,36 @@
 
 # Hi, I'm Isaiah!
-### (NOTICE, LINKS NOT WORKING, PORTFOLIO IN PROGRESS)
+
+### (NOTICE, SOME LINKS MAY NOT WORK, PORTFOLIO IN PROGRESS)
+
+Quick languge guide
+(in progress) means in the process of making that project
+(to be completed) means the repository needs to be made and linked but the project is done
+
+
+
+
 ## 🔒Cybersecurity Projects & CTF's:
 
 **🚩CTF's**
 
 - **Napping**
-  - [Detailed Napping 1.0.1 Completeion tutorial and Report]()
+  - [Detailed Napping 1.0.1 Completeion tutorial and Report](https://github.com/Expert21/napping1.0.1)
 - **Mercury**
-  - [Detailed Mercury Completeion Tutorial and Report]()
+  - (to be completed)[Detailed Mercury Completeion Tutorial and Report]()
 - **Deathnote**
-  - [Detailed Deathnote Completeion Tutorial and Report]()
+  - (to be completed)[Detailed Deathnote Completeion Tutorial and Report]()
 ## 🧑‍💻Coding projects:
 - Discord Bot for Image Generation(Possibly NSFW) (In Progress)
 
 ## ✅Misc Projects:
 
 **AI Projects**
-  - [Locally Hosting AI LLM for Story writting using LM Studio]()
-  - [Locally Hosting AI LLM for general purposes using OpenWebUI]()
+  - (to be completed)[Locally Hosting AI LLM for Story writting using LM Studio]()
+  - (to be completed)[Locally Hosting AI LLM for general purposes using OpenWebUI]()
   - Hosting AI on laptop for remote access(In Progress)
 **Home Labbing**
-  - [Setting up pfsense as a virtual machine to isolate VM's for home lab]()
+  - (to be completed)[Setting up pfsense as a virtual machine to isolate VM's for home lab]()
 
 
 
