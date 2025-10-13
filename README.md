@@ -1,7 +1,7 @@
 
 # Hi, I'm Isaiah!
 
-### (NOTICE, SOME LINKS MAY NOT WORK, PORTFOLIO IN PROGRESS)
+### (NOTICE: SOME LINKS MAY NOT WORK, PORTFOLIO IN PROGRESS)
 
 Quick languge guide
 - (in progress) means in the process of making that project
