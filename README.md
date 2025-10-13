@@ -1,4 +1,15 @@
-## Hi there 👋
+
+<h1>Hi, I'm Isaiah!
+  
+<h2> Cybersecurity Projects:</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Isaiah | Email" width="22px" src="(https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/gmail.svg)" />][email]
+
+[email]: https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Aisaiahmyles04%40gmail%2Ecom
+
 
 <!--
 **Expert21/Expert21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
