@@ -6,11 +6,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="IsaiahMyles | Gmail" width="22px" src="(https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg)" />][gmail]
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="IsaiahMyles | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 [gmail]: https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Aisaiahmyles04%40gmail%2Ecom
-[youtube]: https://www.youtube.com/c/joshmadakor
 
 
 <!--
