@@ -9,7 +9,7 @@
 [<img align="left" alt="IsaiahMyles | Gmail" width="22px" src="(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)" />][gmail]
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[gmail]: https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Aisaiahmyles04%40gmail%2Ecom
+[gmail]: https://mail.google.com/mail/
 [youtube]: https://www.youtube.com/c/joshmadakor
 
 
