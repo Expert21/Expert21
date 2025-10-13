@@ -4,8 +4,8 @@
 ### (NOTICE, SOME LINKS MAY NOT WORK, PORTFOLIO IN PROGRESS)
 
 Quick languge guide
-(in progress) means in the process of making that project
-(to be completed) means the repository needs to be made and linked but the project is done
+- (in progress) means in the process of making that project
+- (to be completed) means the repository needs to be made and linked but the project is done
 
 
 
