@@ -17,7 +17,7 @@ Quick languge guide
 - **Napping**
   - [Detailed Napping 1.0.1 Completeion tutorial and Report](https://github.com/Expert21/napping1.0.1)
 - **Mercury**
-  - (to be completed)[Detailed Mercury Completeion Tutorial and Report]()
+  - [Detailed Mercury Completeion Tutorial and Report](https://github.com/Expert21/mercury)
 - **Deathnote**
   - (to be completed)[Detailed Deathnote Completeion Tutorial and Report]()
 ## 🧑‍💻Coding projects:
@@ -32,7 +32,7 @@ Quick languge guide
 
 ### **Home Labbing**
 
-  - [Home Labbing on Youtube](https://youtube.com/playlist?list=PLiAumUyc_U3d4YBzbPOxei7EGxlvbPW0V&si=XSTm3tpYt7ZUus-3)
+  - [Home Labbing on Youtube as a playlist](https://youtube.com/playlist?list=PLiAumUyc_U3d4YBzbPOxei7EGxlvbPW0V&si=XSTm3tpYt7ZUus-3)
 
   - (to be completed)[Setting up pfsense as a virtual machine to isolate VM's for home lab]()
 
