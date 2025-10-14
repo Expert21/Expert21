@@ -26,7 +26,7 @@ Quick languge guide
 ## ✅Misc Projects:
 
 ### **AI Projects**
-  - (to be completed)[Locally Hosting AI LLM for Story writting using LM Studio]()
+  - [Locally Hosting AI LLM for Story writting using LM Studio](https://github.com/Expert21/Ai-in-LM-Studio)
   - (to be completed)[Locally Hosting AI LLM for general purposes using OpenWebUI]()
   - Hosting AI on laptop for remote access(In Progress)
 
