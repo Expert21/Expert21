@@ -37,6 +37,8 @@ Quick languge guide
   - (to be completed)[Setting up pfsense as a virtual machine to isolate VM's for home lab]()
 
 
+### Arch Linux Hyprland theme
+- [Cyberpunk Theme, complete with 2 install scripts](https://github.com/Expert21/cyberpunk-hyprland)
 
 
 
