@@ -28,8 +28,6 @@ Quick languge guide
 ### **AI Projects**
   - [Locally Hosting AI LLM for Story writting using LM Studio](https://github.com/Expert21/Ai-in-LM-Studio)
   - (to be completed)[Locally Hosting AI LLM for general purposes using OpenWebUI]()
-  - Hosting AI on laptop for remote access(In Progress)
-
 ### **Home Labbing**
 
   - [Home Labbing on Youtube as a playlist](https://youtube.com/playlist?list=PLiAumUyc_U3d4YBzbPOxei7EGxlvbPW0V&si=XSTm3tpYt7ZUus-3)
