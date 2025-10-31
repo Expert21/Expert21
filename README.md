@@ -21,7 +21,7 @@ Quick languge guide
 - **Deathnote**
   - (to be completed)[Detailed Deathnote Completeion Tutorial and Report]()
 ## 🧑‍💻Coding projects:
-- Discord Bot for Image Generation(Possibly NSFW) (In Progress)
+- (To be completed)[Discord Bot for Image Generation(Possibly NSFW)].()
 
 ## ✅Misc Projects:
 
