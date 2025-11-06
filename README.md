@@ -18,8 +18,7 @@ Quick languge guide
   - [Detailed Napping 1.0.1 Completeion tutorial and Report](https://github.com/Expert21/napping1.0.1)
 - **Mercury**
   - [Detailed Mercury Completeion Tutorial and Report](https://github.com/Expert21/mercury)
-- **Deathnote**
-  - (to be completed)[Detailed Deathnote Completeion Tutorial and Report]()
+
 ## 🧑‍💻Coding projects:
 - [Discord Bot for Image Generation(Possibly NSFW)](https://github.com/Expert21/Discord-bot)
 
