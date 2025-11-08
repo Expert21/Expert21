@@ -1,12 +1,7 @@
 
 # Hi, I'm Isaiah!
 
-### (NOTICE: SOME LINKS MAY NOT WORK, PORTFOLIO IN PROGRESS)
-
-Quick languge guide
-- (in progress) means in the process of making that project
-- (to be completed) means the repository needs to be made and linked but the project is done
-
+### (NOTICE:PORTFOLIO IN PROGRESS! Im always trying new things and learning more. Everything of value i make will be put here)
 
 
 
@@ -26,12 +21,11 @@ Quick languge guide
 
 ### **AI Projects**
   - [Locally Hosting AI LLM for Story writting using LM Studio](https://github.com/Expert21/Ai-in-LM-Studio)
-  - (to be completed)[Locally Hosting AI LLM for general purposes using OpenWebUI]()
+
 ### **Home Labbing**
 
   - [Home Labbing on Youtube as a playlist](https://youtube.com/playlist?list=PLiAumUyc_U3d4YBzbPOxei7EGxlvbPW0V&si=XSTm3tpYt7ZUus-3)
 
-  - (to be completed)[Setting up pfsense as a virtual machine to isolate VM's for home lab]()
 
 
 ### Arch Linux Hyprland theme
