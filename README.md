@@ -21,6 +21,7 @@
 
 ### **AI Projects**
   - [Locally Hosting AI LLM for Story writting using LM Studio](https://github.com/Expert21/Ai-in-LM-Studio)
+  - [Simple Message Token calculater for API costs]()
 
 ### **Home Labbing**
 
