@@ -15,7 +15,7 @@
   - [Detailed Mercury Completeion Tutorial and Report](https://github.com/Expert21/mercury)
 
 ## 🧑‍💻Coding projects:
-- [Discord Bot for Image Generation(Possibly NSFW)](https://github.com/Expert21/Discord-bot)
+- [Discord Bot for Image Generation](https://github.com/Expert21/Discord-bot)
 - [Hermes - Command line based OSINT Tool](https://github.com/Expert21/hermes-osint)
 
 ## ✅Misc Projects:
