@@ -1,60 +1,94 @@
 
-# Hi, I'm Isaiah!
+# 👋 Hi, I'm Isaiah
+## Cybersecurity Professional · AI Security Researcher · Technical Writer
 
-### (NOTICE:PORTFOLIO IN PROGRESS! Im always trying new things and learning more. Everything of value i make will be put here)
+I combine hands-on Cybersecurity experience with a background in Theology and Creative Writing, giving me a unique analytical and ethical perspective on both human and machine reasoning.
 
+My work spans:
+- Cybersecurity & Red Teaming
+- LLM Safety, Adversarial Prompting & AI Evaluation
+- Home Lab Architecture & System Hardening
+- Technical Documentation & Knowledge Sharing
 
+I'm always learning, always building, and always improving. This portfolio grows with me.
 
-## 🔒Cybersecurity Projects & CTF's:
+---
 
-**🚩CTF's**
+# 🔐 Cybersecurity & Red Teaming
 
-- **Napping**
-  - [Detailed Napping 1.0.1 Completeion tutorial and Report](https://github.com/Expert21/napping1.0.1)
-- **Mercury**
-  - [Detailed Mercury Completeion Tutorial and Report](https://github.com/Expert21/mercury)
+Vulnerability analysis, hands-on labs, OSINT tooling, and CTF reporting.
 
-## 🧑‍💻Coding projects:
-- [Discord Bot for Image Generation](https://github.com/Expert21/Discord-bot)
-- [Hermes - Command line based OSINT Tool](https://github.com/Expert21/hermes-osint)
+#### 🛠 Hermes — OSINT Reconnaissance Tool
 
-## ✅Misc Projects:
+➡ https://github.com/Expert21/hermes-osint
 
-### **AI Projects**
-  - [Locally Hosting AI LLM for Story writting using LM Studio](https://github.com/Expert21/Ai-in-LM-Studio)
-  - [Simple Message Token calculater for API costs](https://github.com/Expert21/token-counter)
+A command-line OSINT utility designed for early-stage reconnaissance. Demonstrates experience with automation, data gathering, and scripting workflows.
 
-### **Home Labbing**
+# 🚩 CTF Vulnerability Reports
 
-  - [Home Labbing on Youtube as a playlist](https://youtube.com/playlist?list=PLiAumUyc_U3d4YBzbPOxei7EGxlvbPW0V&si=XSTm3tpYt7ZUus-3)
+#### Mercury — Exploitation & Root Cause Analysis
+➡ https://github.com/Expert21/mercury
 
+#### Napping 1.0.1 — Step-by-Step Attack Path Documentation
+➡ https://github.com/Expert21/napping1.0.1
 
+Each report reflects real red-team methodology: enumeration, exploitation, privilege escalation, and remediation strategies.
 
-### Arch Linux Hyprland theme
-- [Cyberpunk Theme, complete with 2 install scripts](https://github.com/Expert21/cyberpunk-hyprland)
+# 🤖 AI Security, LLM Reasoning & Prompt Engineering
 
+Applying offensive and defensive security thinking to language models.
 
+#### 🔍 LLM Vulnerability & Behavior Analysis
 
-## 🤳 Connect with me:
+➡ https://github.com/Expert21/Ai-in-LM-Studio
 
+Researching reasoning failures, jailbreak weaknesses, and “soft safety boundary” inconsistencies in local LLMs.
+
+Evaluates narrative coherence, logic, and ethical responses using LM Studio-hosted models.
+
+#### 📊 API Token & Cost Calculator
+
+➡ https://github.com/Expert21/token-counter
+
+Python-based calculator for estimating API usage and costs during high-volume inference, annotation, or testing workloads.
+
+#### 🤖 Generative AI Discord Integration
+
+➡ https://github.com/Expert21/Discord-bot
+
+Shows experience with API handling, event-driven programming, and automated content delivery systems.
+
+# 🏗️ Infrastructure, Home Lab & Systems Work
+
+Enterprise simulation, secure networking, and hands-on administration.
+
+#### 🎥 Penetration Testing Home Lab (YouTube Series)
+
+➡ https://youtube.com/playlist?list=PLiAumUyc_U3d4YBzbPOxei7EGxlvbPW0V
+
+Built isolated network using pfSense, Active Directory, Linux hosts, VLANs, and containerized services.
+
+Used for malware detonation, detection testing, red-team practice, and blue-team monitoring.
+
+#### 🎨 Arch Linux Hyprland Custom Cyberpunk Theme
+
+➡ https://github.com/Expert21/cyberpunk-hyprland
+
+Demonstrates systems customization, bash scripting, and usability design.
+
+## 🛠️ Technical Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Shield-red?style=for-the-badge)
+
+## 🤳 Connect with me
+[<img align="left" alt="IsaiahMyles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IsaiahMyles | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Cyber Attack | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
 
-[gmail]: https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Aisaiahmyles04%40gmail%2Ecom
-[youtube]: https://www.youtube.com/@CybersecAttack
-
-<!--
-**Expert21/Expert21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/isaiah-myles
+[gmail]: mailto:isaiahmyles04@gmail.com
+<br><br>
