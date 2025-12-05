@@ -1,6 +1,7 @@
 👋 Hey, I’m Isaiah
 
 Aspiring cybersecurity researcher & pentester with a deep curiosity for how systems really work. I love building tools, breaking assumptions, and understanding the internals of whatever I’m working on — from OS behavior to schema design to hardware quirks.
+
 ---
 🔍 What I Do
 
