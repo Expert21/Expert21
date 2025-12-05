@@ -13,6 +13,7 @@ Break down complex systems to understand how pieces interact
 Work on structured data models, correlators, and automation ideas
 
 Constantly learning more about offensive security, system design, and low-level behavior
+
 ---
 💡 What I’m Interested In
 
@@ -25,10 +26,12 @@ OS internals, boot processes, virtualization
 Large-scale schema design & data correlation
 
 Hardware tinkering and weird system behavior
+
 ---
 🧠 How I Work
 
 I’m project-driven, highly inquisitive, and not afraid to dive deep into the messy details. If something behaves unexpectedly—software or hardware—I want to know why. I love iterating on my projects, refining architecture, and experimenting until things feel right.
+
 ---
 🔧 Current Project: Hermes (https://github.com/Expert21/hermes-osint)
 
