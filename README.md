@@ -34,9 +34,12 @@ Hardware tinkering and weird system behavior
 I’m project-driven, highly inquisitive, and not afraid to dive deep into the messy details. If something behaves unexpectedly—software or hardware—I want to know why. I love iterating on my projects, refining architecture, and experimenting until things feel right.
 
 
-## 🔧 Current Project: Hermes (https://github.com/Expert21/hermes-osint)
+## 🔧 Current Project 1: Hermes (https://github.com/Expert21/hermes-osint)
 
 A flexible, plugin-driven security tool with its own API, designed for extensibility and clean integration across multiple modules.
+
+## 🔧 Current Project 2: Minerva (https://github.com/Expert21/Minerva-rice)
+Minerva is a dual-mode Arch Linux environment that seamlessly shifts between an ethereal, aesthetic daily-driver workflow and a hardened, offensive-security–focused pentesting setup, without sacrificing usability or intent.
 
 
 ## 📈 Long-Term Goals
